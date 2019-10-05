@@ -13,4 +13,4 @@ This suffers from the following problems:
 This approach is that it's too haphazard. The quality of insight gained from an interview depends heavily on the skill of the interviewer.
 The second problem is these insights can't be aggregated and interlaced across all employees who have left.
 The third is that it is too late by the time the proposed policy changes take effect.
-If the HR department hires you as data science consultants and want you to supplement their exit interviews with a more proactive approach, how would help them in this problem.
+- If the HR department hires you as data science consultants and want you to supplement their exit interviews with a more proactive approach, how would help them in this problem.
