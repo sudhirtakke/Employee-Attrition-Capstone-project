@@ -58,6 +58,7 @@ This dataset consists of each employee’s Administrative Information, Workload 
     last_evaluation – Score for most recent evaluation of employee (higher is better)
     filed_complaint – Has the employee filed a formal complaint in the last 3 years?
     
-    ![image.png](images/Evaluations.png)
+## Evaluations of different models 
+![image.png](images/evaluations.png)
     
     
