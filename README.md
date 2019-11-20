@@ -59,7 +59,7 @@ This dataset consists of each employee’s Administrative Information, Workload 
     filed_complaint – Has the employee filed a formal complaint in the last 3 years?
     
 ## Evaluations of different models
-![image.png] (images/evaluations.png)
+![image.png](eval.png)
 
 ## Highlights :
 Deliverable: Predict whether an employee will stay or leave.<br/>
