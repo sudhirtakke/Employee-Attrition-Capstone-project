@@ -67,4 +67,5 @@ Machine learning task: Classification<br/>
 Target variable: Status (Employed/Left)<br/>
 Win condition: N/A (best possible model)<br/>
     
+[Jupyter Notebook](GCD_Captone_Project.ipynb)
     
